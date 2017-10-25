@@ -20,7 +20,11 @@ What are we looking for?
 
 ### Emphasis
 _italicized_
+
 __bold__
+
 `code`
+
 [links][https://github.com/srijakbhatnagar/test/edit/master/README.md]
+
 ![Image][link_to_image]
